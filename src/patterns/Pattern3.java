@@ -19,6 +19,6 @@ public class Pattern3 {
         System.out.print("Enter Column: ");
         int column = input.nextInt();
 
-        Pattern(5,5);
+        Pattern(row, column);
     }
 }
